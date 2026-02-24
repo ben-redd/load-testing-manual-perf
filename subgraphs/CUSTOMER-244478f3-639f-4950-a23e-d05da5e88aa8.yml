@@ -2,9 +2,10 @@ fileVersion: 1
 id: 244478f3-639f-4950-a23e-d05da5e88aa8
 name: CUSTOMER
 steps:
-  - 1884eebf-5d8b-45be-9125-666e3824fce1
   - 27be9889-7070-44d2-954c-d799873cc751
   - 408f8aaa-b48c-4914-bcbc-6f3af1a1f3ea
   - 655275ed-33a6-4553-9f7e-9395aa68e5d6
   - 6a64f4c3-037e-42c7-b123-1a638993d954
+  - b6937bd2-4796-45f4-a92e-3882315c82fa
+  - bc3da2a0-2f21-4b43-9e37-f8a157d82c58
 type: Subgraph
